@@ -33,7 +33,7 @@ Aplicar os conhecimentos adquiridos sobre inteligência artificial para linguage
 
 ## 📸 Capturas de Tela
 
-As imagens dos resultados obtidos estão no repositório.
+As imagens dos resultados obtidos estão no repositório, na pasta "imagens".
 
 ## 💡 Aprendizados
 
